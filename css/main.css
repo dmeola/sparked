@@ -1,0 +1,64 @@
+/* main.css
+	for use with "one" theme
+*/
+
+body {
+  background: #111;
+  margin: 0;
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+.scene {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 0;
+}
+.navbar {
+	font-size: 20px;
+	margin-top: 25px;
+}
+.container {
+	padding: 170px;
+	width: 100%;
+}
+.hero {
+	background: url('http://unsplash.s3.amazonaws.com/batch%208/sf-rowing.JPG') 50% 0 no-repeat fixed;
+	color: #fff;
+	height: 600px;
+	padding-top: 0;
+	background-size: cover;
+}
+.content-1 {
+	background: url('http://25.media.tumblr.com/ae324e7244c389e47e1095065d6969db/tumblr_n1iq25Wq701st5lhmo1_1280.jpg') 50% 0 no-repeat fixed;
+	color: #fff;
+	height: 600px;
+	background-size: cover;
+}
+.content-2 {
+	background: #333;
+	color: #fff;
+	height: 600px;
+}
+.content-3 {
+	background: url('http://24.media.tumblr.com/1f9eb77fd3ea8c04613d9eda4decc34e/tumblr_n1ipqbCLKd1st5lhmo1_1280.jpg') 50% 0 no-repeat fixed;
+	color: #fff;
+	height: 600px;
+	background-size: cover;
+}
+.content-4 {
+	background: #333;
+	color: #fff;
+	height: 600px;
+}
+.content-5 {
+	background: url('http://24.media.tumblr.com/6ddffd6a6036f61a1f2b1744bad77730/tumblr_mzgz9vJ1CK1st5lhmo1_1280.jpg') 50% 0 no-repeat fixed;
+	color: #fff;
+	height: 600px;
+	background-size: cover;
+}

@@ -1,0 +1,53 @@
+img {
+	border: 1px solid #333;
+}
+#dashboard p {
+	line-height: 1rem;
+}
+.jumbotron {
+	height: 240px;
+}
+
+.jumbotron.text-danger {
+	background-color: red;
+	color: white;
+}
+
+#home .jumbotron {
+	height: 340px;
+}
+
+.home-content {
+	border-bottom:1px solid #efefef;
+	padding: 25px 0;
+}
+
+.background {
+background: url(../img/SmartBlister.jpg) no-repeat;
+position: absolute;
+height: 450px;
+background-size: cover;
+width: 100%;
+}
+
+.transparent {
+	zoom: 1;
+	filter: alpha(opacity=90);
+	opacity: 0.9;
+}
+
+.navbar-default {
+	margin-top: 20px;
+}
+
+.footer {
+	height: 250px;
+	margin-top: 25px;
+	padding-top: 25px;
+	background-color: #333;
+	color: #fff;
+}
+	.footer .col-md-4 {
+		margin-top: 25px;
+
+	}
